@@ -136,7 +136,7 @@ OUTPUT:
 
 
 ### RESULTS
-
+Arduino uno is interfaced with an ultrasonic pair and measure the distance in centimeters , calculate the error.
 
 
 
